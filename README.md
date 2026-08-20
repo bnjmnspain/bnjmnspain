@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hey, I'm Benjamin Florence Nicol E. Saludes<br><br>💻Information Technology| Building things with code | Always learning<br><br>Welcome to my GitHub! I'm passionate about software development, technology, and building useful things.</h1>
+<h1 data-importer="text" align="center">Hey, I'm Benjamin Florence Nicol E. Saludes<br><br>💻Information Technology | Building things with code | Always learning<br><br>Welcome to my GitHub! I'm passionate about software development, technology, and building useful things.</h1>
 
 ###
 
