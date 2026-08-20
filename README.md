@@ -32,7 +32,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
-###
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/benjamin-florence-nicol-saludes-235426426/" target="_blank">
