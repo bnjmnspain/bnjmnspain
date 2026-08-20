@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Benjamin Florence Nicol E. Saludes
 
-### 💻 Information Technology Student • Developer • Builder • Lifelong Learner
+### Information Technology Student • Developer • Builder • Lifelong Learner
 
 <p align="center">
   <em>Turning ideas into code, one project at a time.</em>
@@ -17,27 +17,26 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm an **Information Technology student** passionate about software development, problem solving, and building useful things with technology.
 
 I enjoy turning ideas into working applications, learning new technologies, and constantly improving the way I write and think about code.
 
-```text
-💡 Build       →       🧪 Experiment       →       📚 Learn       →       🚀 Improve
+```
 ```
 
-* 🔭 Currently building and experimenting with software projects
-* 🌱 Always learning new technologies and development practices
-* 💻 Interested in full-stack development and modern web technologies
-* 🗄️ Enjoy working with databases and backend systems
-* ☁️ Exploring cloud technologies and AWS
-* 🧠 Constantly improving my problem-solving and programming skills
-* ⚡ Fun fact: I enjoy learning by actually building things
+* Currently building and experimenting with software projects
+* Always learning new technologies and development practices
+* Interested in full-stack development and modern web technologies
+* Enjoy working with databases and backend systems
+* Exploring cloud technologies and AWS
+* Constantly improving my problem-solving and programming skills
+* Fun fact: I enjoy learning by actually building things
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -74,15 +73,15 @@ I enjoy turning ideas into working applications, learning new technologies, and 
 
 ---
 
-## 💻 What I Like Building
+##  What I Like Building
 
 ```text
-🌐 Web Applications
-⚙️ Backend Systems
-🗄️ Database-Driven Applications
-☁️ Cloud-Based Projects
-🧩 Software & Automation
-🎨 Clean & Responsive Interfaces
+Web Applications
+Backend Systems
+Database-Driven Applications
+Cloud-Based Projects
+Software & Automation
+Clean & Responsive Interfaces
 ```
 
 I believe good software isn't just about making something work.
@@ -91,7 +90,7 @@ It's about making it **useful, maintainable, understandable, and enjoyable to us
 
 ---
 
-## 🌌 Currently Learning
+## Currently Learning
 
 > **The best way to learn is to build.**
 
@@ -107,7 +106,7 @@ I'm continuously expanding my knowledge across:
 
 ---
 
-## 🧭 My Developer Mindset
+## My Developer Mindset
 
 ```text
 ┌──────────────────────────────────────────────┐
