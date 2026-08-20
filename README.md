@@ -99,7 +99,7 @@ It's about making it **useful, maintainable, understandable, and enjoyable to us
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bnjmnspain&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
