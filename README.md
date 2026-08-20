@@ -23,8 +23,6 @@ I'm an **Information Technology student** passionate about software development,
 
 I enjoy turning ideas into working applications, learning new technologies, and constantly improving the way I write and think about code.
 
-```
-```
 
 * Currently building and experimenting with software projects
 * Always learning new technologies and development practices
