@@ -126,7 +126,7 @@ I'm trying to **learn something new, build something meaningful, and get better 
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
 
@@ -139,6 +139,14 @@ I'm trying to **learn something new, build something meaningful, and get better 
 </a>
 
 </p>
+
+---
+
+Beyond the Code
+
+<p align="center"> <img src="https://cdn.simpleicons.org/wutheringwaves" width="70" alt="Wuthering Waves" /> </p>
+
+<p align="center"> <b>Wuthering Waves enjoyer 🌊</b> <br> <sub>Because sometimes you need to step away from the code and explore Solaris-3.</sub> </p>
 
 ---
 
