@@ -104,28 +104,6 @@ I'm continuously expanding my knowledge across:
 
 ---
 
-## My Developer Mindset
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   Curiosity  →  Experiment  →  Build        │
-│                     ↓                        │
-│                  Learn                       │
-│                     ↓                        │
-│                  Improve                     │
-│                     ↓                        │
-│                  Repeat ♻️                   │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-I'm not trying to know everything.
-
-I'm trying to **learn something new, build something meaningful, and get better every day.**
-
----
-
 ## Let's Connect
 
 <p align="center">
